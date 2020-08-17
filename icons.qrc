@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>filePic.png</file>
+    <file>GermanFlag.png</file>
+    <file>turkey64.png</file>
+    <file>usd.png</file>
+    <file>turkey.png</file>
+  </qresource>
+</RCC>
